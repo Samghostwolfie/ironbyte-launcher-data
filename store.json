@@ -1,0 +1,13 @@
+{
+  "games": [
+    {
+      "id": "hollow_rift",
+      "name": "Hollow Rift",
+      "version": "1.0",
+      "description": "A survival horror experience.",
+      "download_url": "",
+      "images": [],
+      "video": ""
+    }
+  ]
+}
