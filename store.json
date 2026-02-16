@@ -7,7 +7,7 @@
       "description": "A survival horror experience.",
       "thumbnail": "https://raw.githubusercontent.com/Samghostwolfie/ironbyte-launcher-data/main/images/google.png",
       "download_url": "",
-      "images": ["https://raw.githubusercontent.com/Samghostwolfie/ironbyte-launcher-data/main/images/camera.png"],
+      "images": ["https://ironbyte-launcher-data.pages.dev/images/camera.png", "https://ironbyte-launcher-data.pages.dev/images/facebook.png"],
       "video": ""
     }
   ]
